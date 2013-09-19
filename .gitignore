@@ -12,6 +12,6 @@
 *.la
 *.a
 
-# Compiled other libraries
+# Compiled other files
 *.scad
 *.stl
